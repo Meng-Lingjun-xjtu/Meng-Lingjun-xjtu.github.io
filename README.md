@@ -1,1 +1,1 @@
-# deep-vqe
+# logitech-2stage
